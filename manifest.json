@@ -1,0 +1,92 @@
+{
+  "source": "88233d12-smart_farming_data_collection.xlsx",
+  "chunk_rows": 10,
+  "sheets": [
+    {
+      "sheet": "Trusted Sources",
+      "total_data_rows": 22,
+      "chunks": [
+        {
+          "file": "/tmp/claude-0/-home-claude/72fc45d3-187d-5a43-b3ef-ef868b75bcaa/scratchpad/chunks/collection/trusted_sources/chunk_001.csv",
+          "data_rows": 10
+        },
+        {
+          "file": "/tmp/claude-0/-home-claude/72fc45d3-187d-5a43-b3ef-ef868b75bcaa/scratchpad/chunks/collection/trusted_sources/chunk_002.csv",
+          "data_rows": 10
+        },
+        {
+          "file": "/tmp/claude-0/-home-claude/72fc45d3-187d-5a43-b3ef-ef868b75bcaa/scratchpad/chunks/collection/trusted_sources/chunk_003.csv",
+          "data_rows": 2
+        }
+      ]
+    },
+    {
+      "sheet": "Knowledge Dataset",
+      "total_data_rows": 51,
+      "chunks": [
+        {
+          "file": "/tmp/claude-0/-home-claude/72fc45d3-187d-5a43-b3ef-ef868b75bcaa/scratchpad/chunks/collection/knowledge_dataset/chunk_001.csv",
+          "data_rows": 10
+        },
+        {
+          "file": "/tmp/claude-0/-home-claude/72fc45d3-187d-5a43-b3ef-ef868b75bcaa/scratchpad/chunks/collection/knowledge_dataset/chunk_002.csv",
+          "data_rows": 10
+        },
+        {
+          "file": "/tmp/claude-0/-home-claude/72fc45d3-187d-5a43-b3ef-ef868b75bcaa/scratchpad/chunks/collection/knowledge_dataset/chunk_003.csv",
+          "data_rows": 10
+        },
+        {
+          "file": "/tmp/claude-0/-home-claude/72fc45d3-187d-5a43-b3ef-ef868b75bcaa/scratchpad/chunks/collection/knowledge_dataset/chunk_004.csv",
+          "data_rows": 10
+        },
+        {
+          "file": "/tmp/claude-0/-home-claude/72fc45d3-187d-5a43-b3ef-ef868b75bcaa/scratchpad/chunks/collection/knowledge_dataset/chunk_005.csv",
+          "data_rows": 10
+        },
+        {
+          "file": "/tmp/claude-0/-home-claude/72fc45d3-187d-5a43-b3ef-ef868b75bcaa/scratchpad/chunks/collection/knowledge_dataset/chunk_006.csv",
+          "data_rows": 1
+        }
+      ]
+    },
+    {
+      "sheet": "FAQs",
+      "total_data_rows": 27,
+      "chunks": [
+        {
+          "file": "/tmp/claude-0/-home-claude/72fc45d3-187d-5a43-b3ef-ef868b75bcaa/scratchpad/chunks/collection/faqs/chunk_001.csv",
+          "data_rows": 10
+        },
+        {
+          "file": "/tmp/claude-0/-home-claude/72fc45d3-187d-5a43-b3ef-ef868b75bcaa/scratchpad/chunks/collection/faqs/chunk_002.csv",
+          "data_rows": 10
+        },
+        {
+          "file": "/tmp/claude-0/-home-claude/72fc45d3-187d-5a43-b3ef-ef868b75bcaa/scratchpad/chunks/collection/faqs/chunk_003.csv",
+          "data_rows": 7
+        }
+      ]
+    },
+    {
+      "sheet": "Categorisation",
+      "total_data_rows": 8,
+      "chunks": [
+        {
+          "file": "/tmp/claude-0/-home-claude/72fc45d3-187d-5a43-b3ef-ef868b75bcaa/scratchpad/chunks/collection/categorisation/chunk_001.csv",
+          "data_rows": 8
+        }
+      ]
+    },
+    {
+      "sheet": "Gaps & Next Steps",
+      "total_data_rows": 9,
+      "chunks": [
+        {
+          "file": "/tmp/claude-0/-home-claude/72fc45d3-187d-5a43-b3ef-ef868b75bcaa/scratchpad/chunks/collection/gaps_next_steps/chunk_001.csv",
+          "data_rows": 9
+        }
+      ]
+    }
+  ]
+}

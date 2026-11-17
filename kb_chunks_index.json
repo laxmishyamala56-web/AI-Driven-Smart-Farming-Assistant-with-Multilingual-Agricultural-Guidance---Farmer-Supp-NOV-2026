@@ -1,0 +1,1355 @@
+[
+ {
+  "id": "R011",
+  "text": "PM-KISAN - withheld benefits: Benefits are temporarily withheld for flagged cases pending physical verification. Flags include land acquired after 01-02-2019 and more than one family member receiving benefits (e.g. both spouses, or an adult and a minor).",
+  "meta": {
+   "kind": "record",
+   "topic": "Government schemes",
+   "category": "Government Schemes",
+   "crop_type": "All (landholding farmers)",
+   "language": "English",
+   "source_id": "S04",
+   "source_name": "PM-KISAN Portal",
+   "source_url": "https://pmkisan.gov.in/",
+   "document_date": "Page snapshot 13 Mar 2026 or later",
+   "verification_note": "",
+   "reliability_note": "Official government portal"
+  }
+ },
+ {
+  "id": "R012",
+  "text": "PM-KISAN - latest installment: The portal reports the 22nd installment was released on 13 March 2026 from Guwahati, Assam.",
+  "meta": {
+   "kind": "record",
+   "topic": "Government schemes",
+   "category": "Government Schemes",
+   "crop_type": "All (landholding farmers)",
+   "language": "English",
+   "source_id": "S04",
+   "source_name": "PM-KISAN Portal",
+   "source_url": "https://pmkisan.gov.in/",
+   "document_date": "13 Mar 2026",
+   "verification_note": "Time-sensitive; refresh before use",
+   "reliability_note": "Official government portal"
+  }
+ },
+ {
+  "id": "R013",
+  "text": "PMFBY - farmer premium: Farmer premium is 2.0% of Sum Insured or Actuarial Rate, whichever is less.",
+  "meta": {
+   "kind": "record",
+   "topic": "Government schemes",
+   "category": "Government Schemes",
+   "crop_type": "Kharif food grains & oilseeds",
+   "language": "English",
+   "source_id": "S08",
+   "source_name": "PMFBY FAQ (PIB)",
+   "source_url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2021/dec/doc202112701.pdf",
+   "document_date": "07 Dec 2021",
+   "verification_note": "2021 FAQ; check current rates",
+   "reliability_note": "Official PIB FAQ dated 7 Dec 2021; premium rates may have been revised since"
+  }
+ },
+ {
+  "id": "R014",
+  "text": "PMFBY - farmer premium: Farmer premium is 1.5% of Sum Insured or Actuarial Rate, whichever is less.",
+  "meta": {
+   "kind": "record",
+   "topic": "Government schemes",
+   "category": "Government Schemes",
+   "crop_type": "Rabi food grains & oilseeds",
+   "language": "English",
+   "source_id": "S08",
+   "source_name": "PMFBY FAQ (PIB)",
+   "source_url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2021/dec/doc202112701.pdf",
+   "document_date": "07 Dec 2021",
+   "verification_note": "2021 FAQ; check current rates",
+   "reliability_note": "Official PIB FAQ dated 7 Dec 2021; premium rates may have been revised since"
+  }
+ },
+ {
+  "id": "R015",
+  "text": "PMFBY - farmer premium: Farmer premium is 5% of Sum Insured or Actuarial Rate, whichever is less (kharif and rabi).",
+  "meta": {
+   "kind": "record",
+   "topic": "Government schemes",
+   "category": "Government Schemes",
+   "crop_type": "Annual commercial / horticultural crops",
+   "language": "English",
+   "source_id": "S08",
+   "source_name": "PMFBY FAQ (PIB)",
+   "source_url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2021/dec/doc202112701.pdf",
+   "document_date": "07 Dec 2021",
+   "verification_note": "2021 FAQ; check current rates",
+   "reliability_note": "Official PIB FAQ dated 7 Dec 2021; premium rates may have been revised since"
+  }
+ },
+ {
+  "id": "R016",
+  "text": "PMFBY - enrolment cut-off: Proposals are accepted only up to a cut-off date declared by the State Level Coordination Committee on Crop Insurance. Enrolment and farmer premium share must reach the insurer by then. Crop changes must be reported to the bank at least 2 working days before the cut-off.",
+  "meta": {
+   "kind": "record",
+   "topic": "Government schemes",
+   "category": "Government Schemes",
+   "crop_type": "All",
+   "language": "English",
+   "source_id": "S09",
+   "source_name": "PMFBY FAQ (IFFCO-Tokio insurer page)",
+   "source_url": "https://www.iffcotokio.co.in/pradhan-mantri-fasal-bima-yojana/faq",
+   "document_date": "Not stated",
+   "verification_note": "Insurer page (non-govt); state cut-off dates must come from State notifications",
+   "reliability_note": "NON-GOVERNMENT. Use as secondary only; cross-check with State notifications"
+  }
+ },
+ {
+  "id": "R017",
+  "text": "PMFBY - premium payment: Premium must be paid by NEFT. Demand drafts and cheques are not accepted.",
+  "meta": {
+   "kind": "record",
+   "topic": "Government schemes",
+   "category": "Government Schemes",
+   "crop_type": "All",
+   "language": "English",
+   "source_id": "S09",
+   "source_name": "PMFBY FAQ (IFFCO-Tokio insurer page)",
+   "source_url": "https://www.iffcotokio.co.in/pradhan-mantri-fasal-bima-yojana/faq",
+   "document_date": "Not stated",
+   "verification_note": "Insurer page (non-govt)",
+   "reliability_note": "NON-GOVERNMENT. Use as secondary only; cross-check with State notifications"
+  }
+ },
+ {
+  "id": "R018",
+  "text": "PMFBY - loss reporting: For post-harvest and localised calamity losses, intimate the insurer within 72 hours of the event. Provide survey-number-wise details and acreage affected. Losses can also be reported via the District Agriculture Office or the bank.",
+  "meta": {
+   "kind": "record",
+   "topic": "Government schemes",
+   "category": "Government Schemes",
+   "crop_type": "All",
+   "language": "English",
+   "source_id": "S09",
+   "source_name": "PMFBY FAQ (IFFCO-Tokio insurer page)",
+   "source_url": "https://www.iffcotokio.co.in/pradhan-mantri-fasal-bima-yojana/faq",
+   "document_date": "Not stated",
+   "verification_note": "Insurer page (non-govt); 14-day window for cut-and-spread crops in PIB FAQ (S08)",
+   "reliability_note": "NON-GOVERNMENT. Use as secondary only; cross-check with State notifications"
+  }
+ },
+ {
+  "id": "R019",
+  "text": "Scheme discovery and eligibility: myScheme is a national platform run by NeGD (MeitY) for one-stop search of government schemes, including an eligibility check based on personal attributes and scheme-wise application guidance. Number of schemes covered is not stated.",
+  "meta": {
+   "kind": "record",
+   "topic": "Government schemes",
+   "category": "Government Schemes",
+   "crop_type": "All",
+   "language": "English",
+   "source_id": "S19",
+   "source_name": "myScheme - About",
+   "source_url": "https://www.myscheme.gov.in/about",
+   "document_date": "Not stated",
+   "verification_note": "Candidate for the scheme eligibility checker API",
+   "reliability_note": "Official government platform"
+  }
+ },
+ {
+  "id": "R020",
+  "text": "Soil Health Card - launch: Soil Health Card scheme launched 19 February 2015 by Prime Minister Narendra Modi at Suratgarh, Rajasthan.",
+  "meta": {
+   "kind": "record",
+   "topic": "Soil health",
+   "category": "Soil Health & Nutrient Management",
+   "crop_type": "All",
+   "language": "English",
+   "source_id": "S06",
+   "source_name": "Soil Health Card Scheme - Factsheet",
+   "source_url": "https://pib.gov.in/FactsheetDetails.aspx?Id=148602",
+   "document_date": "19 Feb 2015",
+   "verification_note": "",
+   "reliability_note": "Official PIB factsheet; contains a conflict on testing frequency (see R21)"
+  }
+ },
+ {
+  "id": "R001",
+  "text": "Kisan Call Centre - basics: Kisan Call Centre (KCC) is a government telephone helpline launched by the Ministry of Agriculture on 21 January 2004 to use ICT in farming.",
+  "meta": {
+   "kind": "record",
+   "topic": "Farmer helpline",
+   "category": "Helpline & Advisory Support",
+   "crop_type": "All",
+   "language": "English",
+   "source_id": "S01",
+   "source_name": "Kisan Call Centre (KCC) - About",
+   "source_url": "https://mkisan.gov.in/Home/AboutKCC",
+   "document_date": "Not stated",
+   "verification_note": "",
+   "reliability_note": "Official government portal"
+  }
+ },
+ {
+  "id": "R002",
+  "text": "Kisan Call Centre - helpline number: Toll-free number 1800-180-1551; works from mobile and landline on all telecom networks including private providers.",
+  "meta": {
+   "kind": "record",
+   "topic": "Farmer helpline",
+   "category": "Helpline & Advisory Support",
+   "crop_type": "All",
+   "language": "English",
+   "source_id": "S02",
+   "source_name": "Kisan Call Centre - Features",
+   "source_url": "https://mkisan.gov.in/Home/KCCFeature",
+   "document_date": "Not stated",
+   "verification_note": "",
+   "reliability_note": "Official government portal"
+  }
+ },
+ {
+  "id": "R003",
+  "text": "Kisan Call Centre - timings: Calls answered 6.00 am to 10.00 pm, all seven days of the week, at each KCC location.",
+  "meta": {
+   "kind": "record",
+   "topic": "Farmer helpline",
+   "category": "Helpline & Advisory Support",
+   "crop_type": "All",
+   "language": "English",
+   "source_id": "S02",
+   "source_name": "Kisan Call Centre - Features",
+   "source_url": "https://mkisan.gov.in/Home/KCCFeature",
+   "document_date": "Not stated",
+   "verification_note": "",
+   "reliability_note": "Official government portal"
+  }
+ },
+ {
+  "id": "R004",
+  "text": "Kisan Call Centre - languages: Replies are given in 22 local languages. The page does not list which 22; Hindi and Kannada coverage must be confirmed.",
+  "meta": {
+   "kind": "record",
+   "topic": "Farmer helpline",
+   "category": "Helpline & Advisory Support",
+   "crop_type": "All",
+   "language": "English",
+   "source_id": "S02",
+   "source_name": "Kisan Call Centre - Features",
+   "source_url": "https://mkisan.gov.in/Home/KCCFeature",
+   "document_date": "Not stated",
+   "verification_note": "Project-critical: confirm Hindi and Kannada are among the 22 languages",
+   "reliability_note": "Official government portal"
+  }
+ },
+ {
+  "id": "R005",
+  "text": "Kisan Call Centre - how queries are answered: Farm Tele Advisors (agriculture graduates or allied-field degree holders) answer calls. Queries they cannot answer go to subject-matter specialists from State Agriculture Departments, ICAR and State Agricultural Universities via call conferencing. Operates from 14 locations covering all States and UTs.",
+  "meta": {
+   "kind": "record",
+   "topic": "Farmer helpline",
+   "category": "Helpline & Advisory Support",
+   "crop_type": "All",
+   "language": "English",
+   "source_id": "S01",
+   "source_name": "Kisan Call Centre (KCC) - About",
+   "source_url": "https://mkisan.gov.in/Home/AboutKCC",
+   "document_date": "Not stated",
+   "verification_note": "",
+   "reliability_note": "Official government portal"
+  }
+ },
+ {
+  "id": "R006",
+  "text": "KCC query dataset: Open dataset of district-wise, month-wise queries asked by farmers and answers given by FTAs. Fields listed: StateName, DistrictName, BlockName, Season, Sector. No record count or API on the listing page.",
+  "meta": {
+   "kind": "record",
+   "topic": "Farmer helpline",
+   "category": "Knowledge Base Data",
+   "crop_type": "All",
+   "language": "English",
+   "source_id": "S20",
+   "source_name": "Kisan Call Centre (KCC) Query Data - Open Dataset",
+   "source_url": "https://www.data.gov.in/resource/kisan-call-centre-kcc-transcripts-farmers-queries-answers",
+   "document_date": "Dataset last updated 01 Apr 2026 (per AIKosh)",
+   "verification_note": "Use as FAQ seed; download and check before use",
+   "reliability_note": "Official open data, but the page shows no records or file size. Check the download before use."
+  }
+ },
+ {
+  "id": "R007",
+  "text": "PM-KISAN - benefit: Rs 6,000 per year per family, paid in three equal instalments of Rs 2,000 every four months, via Direct Benefit Transfer.",
+  "meta": {
+   "kind": "record",
+   "topic": "Government schemes",
+   "category": "Government Schemes",
+   "crop_type": "All (landholding farmers)",
+   "language": "English",
+   "source_id": "S05",
+   "source_name": "PIB FAQ on PM-KISAN",
+   "source_url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2021/nov/doc2021112361.pdf",
+   "document_date": "23 Nov 2021",
+   "verification_note": "2021 FAQ; confirm rate is unchanged",
+   "reliability_note": "Official PIB FAQ dated 23 Nov 2021; check for later rule changes"
+  }
+ },
+ {
+  "id": "R008",
+  "text": "PM-KISAN - eligibility: Landholding farmer families with cultivable land in their own names (husband, wife and minor children count as one family). Urban land qualifies only if cultivated. Tenant farmers excluded. Land ownership cut-off date: 1 February 2019 (exception for land transferred by succession).",
+  "meta": {
+   "kind": "record",
+   "topic": "Government schemes",
+   "category": "Government Schemes",
+   "crop_type": "All (landholding farmers)",
+   "language": "English",
+   "source_id": "S05",
+   "source_name": "PIB FAQ on PM-KISAN",
+   "source_url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2021/nov/doc2021112361.pdf",
+   "document_date": "23 Nov 2021",
+   "verification_note": "",
+   "reliability_note": "Official PIB FAQ dated 23 Nov 2021; check for later rule changes"
+  }
+ },
+ {
+  "id": "R009",
+  "text": "PM-KISAN - exclusions: Excluded: institutional landholders; families of constitutional post holders, ministers, legislators, mayors or district panchayat chairpersons; serving or retired central/state government and PSU employees (Class IV/Group D staff not excluded); pensioners receiving Rs 10,000+ per month; anyone who paid income tax in the last assessment year; registered doctors, engineers, lawyers, CAs and architects.",
+  "meta": {
+   "kind": "record",
+   "topic": "Government schemes",
+   "category": "Government Schemes",
+   "crop_type": "All (landholding farmers)",
+   "language": "English",
+   "source_id": "S05",
+   "source_name": "PIB FAQ on PM-KISAN",
+   "source_url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2021/nov/doc2021112361.pdf",
+   "document_date": "23 Nov 2021",
+   "verification_note": "",
+   "reliability_note": "Official PIB FAQ dated 23 Nov 2021; check for later rule changes"
+  }
+ },
+ {
+  "id": "R010",
+  "text": "PM-KISAN - eKYC and status check: eKYC is mandatory for registered farmers. OTP-based eKYC is on the PM-KISAN portal; biometric eKYC is at nearby CSC centres. Eligibility status (Know Your Status) is on the portal, the app, and the Kisan eMitra chatbot.",
+  "meta": {
+   "kind": "record",
+   "topic": "Government schemes",
+   "category": "Government Schemes",
+   "crop_type": "All (landholding farmers)",
+   "language": "English",
+   "source_id": "S04",
+   "source_name": "PM-KISAN Portal",
+   "source_url": "https://pmkisan.gov.in/",
+   "document_date": "Page snapshot 13 Mar 2026 or later",
+   "verification_note": "",
+   "reliability_note": "Official government portal"
+  }
+ },
+ {
+  "id": "R041",
+  "text": "Pheromone traps for yellow stem borer: Install pheromone traps at 20 traps per hectare, about 20 days after transplanting, to mass-trap male moths. Lures contain 10-15 mg pheromone.",
+  "meta": {
+   "kind": "record",
+   "topic": "Pest control",
+   "category": "Pest & Disease Management (IPM)",
+   "crop_type": "Rice",
+   "language": "English",
+   "source_id": "S16",
+   "source_name": "Integrated Pest Management Package - Rice",
+   "source_url": "https://www.niphm.gov.in/IPMPackages/Rice.pdf",
+   "document_date": "2014",
+   "verification_note": "",
+   "reliability_note": "Official ICAR-linked technical package dated 2014; check for newer editions"
+  }
+ },
+ {
+  "id": "R042",
+  "text": "Post-harvest sanitation: After harvest, flood the fields thoroughly and plough with discs or rotators to kill hibernating stem borer larvae.",
+  "meta": {
+   "kind": "record",
+   "topic": "Pest control",
+   "category": "Pest & Disease Management (IPM)",
+   "crop_type": "Rice",
+   "language": "English",
+   "source_id": "S16",
+   "source_name": "Integrated Pest Management Package - Rice",
+   "source_url": "https://www.niphm.gov.in/IPMPackages/Rice.pdf",
+   "document_date": "2014",
+   "verification_note": "",
+   "reliability_note": "Official ICAR-linked technical package dated 2014; check for newer editions"
+  }
+ },
+ {
+  "id": "R043",
+  "text": "Planthopper spray threshold (pest:defender ratio): Pest:defender ratio of 2:1 may help avoid spraying against planthoppers, since natural enemies can keep numbers in check.",
+  "meta": {
+   "kind": "record",
+   "topic": "Pest control",
+   "category": "Pest & Disease Management (IPM)",
+   "crop_type": "Rice",
+   "language": "English",
+   "source_id": "S16",
+   "source_name": "Integrated Pest Management Package - Rice",
+   "source_url": "https://www.niphm.gov.in/IPMPackages/Rice.pdf",
+   "document_date": "2014",
+   "verification_note": "",
+   "reliability_note": "Official ICAR-linked technical package dated 2014; check for newer editions"
+  }
+ },
+ {
+  "id": "R044",
+  "text": "Economic threshold for chemical control: Chemicals are a last resort, used only when pest populations cross the economic threshold level (ETL). Brown planthopper ETL: 10-15 hoppers per hill from early to late tillering; 15-20 per hill from panicle initiation to booting.",
+  "meta": {
+   "kind": "record",
+   "topic": "Pest control",
+   "category": "Pest & Disease Management (IPM)",
+   "crop_type": "Rice",
+   "language": "English",
+   "source_id": "S16",
+   "source_name": "Integrated Pest Management Package - Rice",
+   "source_url": "https://www.niphm.gov.in/IPMPackages/Rice.pdf",
+   "document_date": "2014",
+   "verification_note": "",
+   "reliability_note": "Official ICAR-linked technical package dated 2014; check for newer editions"
+  }
+ },
+ {
+  "id": "R045",
+  "text": "Key pests, diseases and nematodes: Insect pests: pink bollworm, cotton bollworm, spotted bollworm, jassid, whitefly, aphid, thrips, mealybugs, mirids, tobacco caterpillar, stem weevil. Diseases: root rot, Fusarium wilt, boll rots, target spot, leaf spots, cotton rust, grey mildew, bacterial leaf blight, cotton leaf curl disease (CLCuD), tobacco streak virus. Nematodes: root-knot and reniform.",
+  "meta": {
+   "kind": "record",
+   "topic": "Pest control",
+   "category": "Pest & Disease Management (IPM)",
+   "crop_type": "Cotton",
+   "language": "English",
+   "source_id": "S17",
+   "source_name": "Illustrative Guide - Cotton IPM (CICR)",
+   "source_url": "https://cicr.org.in/wp-content/uploads/2026/08/CICR_Illustrative-guide-for-integrated-management-for-Cotton-Pests-Diseases-and-Nematodes.pdf",
+   "document_date": "2026 (printed July 2026)",
+   "verification_note": "126-page guide",
+   "reliability_note": "ICAR research institute; 2026 edition, most recent source in this set"
+  }
+ },
+ {
+  "id": "R046",
+  "text": "Pink bollworm pheromone traps: At 45 days after sowing (DAS), install pheromone traps at 5 per hectare for pink bollworm monitoring.",
+  "meta": {
+   "kind": "record",
+   "topic": "Pest control",
+   "category": "Pest & Disease Management (IPM)",
+   "crop_type": "Cotton",
+   "language": "English",
+   "source_id": "S17",
+   "source_name": "Illustrative Guide - Cotton IPM (CICR)",
+   "source_url": "https://cicr.org.in/wp-content/uploads/2026/08/CICR_Illustrative-guide-for-integrated-management-for-Cotton-Pests-Diseases-and-Nematodes.pdf",
+   "document_date": "2026 (printed July 2026)",
+   "verification_note": "",
+   "reliability_note": "ICAR research institute; 2026 edition, most recent source in this set"
+  }
+ },
+ {
+  "id": "R047",
+  "text": "Seed treatment for early sucking pests: Commercial seeds are coated with systemic insecticides such as Imidacloprid 70 WS or Thiamethoxam 30 FS, giving early protection against sucking pests (0-60 DAS).",
+  "meta": {
+   "kind": "record",
+   "topic": "Pest control",
+   "category": "Pest & Disease Management (IPM)",
+   "crop_type": "Cotton",
+   "language": "English",
+   "source_id": "S17",
+   "source_name": "Illustrative Guide - Cotton IPM (CICR)",
+   "source_url": "https://cicr.org.in/wp-content/uploads/2026/08/CICR_Illustrative-guide-for-integrated-management-for-Cotton-Pests-Diseases-and-Nematodes.pdf",
+   "document_date": "2026 (printed July 2026)",
+   "verification_note": "Verify label rates before any dosing content",
+   "reliability_note": "ICAR research institute; 2026 edition, most recent source in this set"
+  }
+ },
+ {
+  "id": "R048",
+  "text": "Conserve natural enemies: Avoid broad-spectrum sprays (guide: do not apply synthetic pyrethroids or organophosphates) to prevent whitefly resurgence during 0-60 DAS.",
+  "meta": {
+   "kind": "record",
+   "topic": "Pest control",
+   "category": "Pest & Disease Management (IPM)",
+   "crop_type": "Cotton",
+   "language": "English",
+   "source_id": "S17",
+   "source_name": "Illustrative Guide - Cotton IPM (CICR)",
+   "source_url": "https://cicr.org.in/wp-content/uploads/2026/08/CICR_Illustrative-guide-for-integrated-management-for-Cotton-Pests-Diseases-and-Nematodes.pdf",
+   "document_date": "2026 (printed July 2026)",
+   "verification_note": "",
+   "reliability_note": "ICAR research institute; 2026 edition, most recent source in this set"
+  }
+ },
+ {
+  "id": "R049",
+  "text": "Rosette flower removal: Between 61 and 90 DAS, observe for rosette flowers (a sign of pink bollworm larvae), pluck and destroy them.",
+  "meta": {
+   "kind": "record",
+   "topic": "Pest control",
+   "category": "Pest & Disease Management (IPM)",
+   "crop_type": "Cotton",
+   "language": "English",
+   "source_id": "S17",
+   "source_name": "Illustrative Guide - Cotton IPM (CICR)",
+   "source_url": "https://cicr.org.in/wp-content/uploads/2026/08/CICR_Illustrative-guide-for-integrated-management-for-Cotton-Pests-Diseases-and-Nematodes.pdf",
+   "document_date": "2026 (printed July 2026)",
+   "verification_note": "",
+   "reliability_note": "ICAR research institute; 2026 edition, most recent source in this set"
+  }
+ },
+ {
+  "id": "R050",
+  "text": "Crop duration limit: Do not extend the cotton crop beyond 180 days, to prevent late-season pest build-up.",
+  "meta": {
+   "kind": "record",
+   "topic": "Pest control",
+   "category": "Pest & Disease Management (IPM)",
+   "crop_type": "Cotton",
+   "language": "English",
+   "source_id": "S17",
+   "source_name": "Illustrative Guide - Cotton IPM (CICR)",
+   "source_url": "https://cicr.org.in/wp-content/uploads/2026/08/CICR_Illustrative-guide-for-integrated-management-for-Cotton-Pests-Diseases-and-Nematodes.pdf",
+   "document_date": "2026 (printed July 2026)",
+   "verification_note": "",
+   "reliability_note": "ICAR research institute; 2026 edition, most recent source in this set"
+  }
+ },
+ {
+  "id": "R051",
+  "text": "IPM package coverage: NCIPM (ICAR) has IPM packages for these crops (the list ends with 'etc.'). Also available: database of pest resistance in India and list of bio-pesticides. Per-crop practices are not on this page.",
+  "meta": {
+   "kind": "record",
+   "topic": "Pest control",
+   "category": "Pest & Disease Management (IPM)",
+   "crop_type": "Multiple (Amla, Apple, Apricot, Banana, Ber, Black/Green Gram, Sunflower, Tea, Tobacco, Tomato, Walnut, Watermelon, Wheat, etc.)",
+   "language": "English",
+   "source_id": "S15",
+   "source_name": "Information on IPM Package for Different Crops",
+   "source_url": "https://www.india.gov.in/information-integrated-pest-management-package-different-crops",
+   "document_date": "Not stated",
+   "verification_note": "Use as index; fetch crop-specific packages next",
+   "reliability_note": "Official; lists crops only, no per-crop practices"
+  }
+ },
+ {
+  "id": "R031",
+  "text": "IMD agromet - service: Gramin Krishi Mausam Seva (GKMS) from the Agricultural Meteorology Division aims to minimise the impact of adverse weather on crops. Agromet advisories are disseminated to farmers; state-capital forecasting offices issue forecasts and advisories.",
+  "meta": {
+   "kind": "record",
+   "topic": "Weather & advisories",
+   "category": "Weather & Agro-Advisories",
+   "crop_type": "All",
+   "language": "English",
+   "source_id": "S14",
+   "source_name": "IMD - Meteorological Services for Agriculture",
+   "source_url": "https://mausam.imd.gov.in/responsive/servicesMetAgriculture.php",
+   "document_date": "Not stated",
+   "verification_note": "",
+   "reliability_note": "Official IMD page; does not state advisory frequency"
+  }
+ },
+ {
+  "id": "R032",
+  "text": "IMD agromet - delivery channels: Farmers can access advisories via MAUSAM app, Meghdoot Agro app and UMANG app (Android and Apple), the agromet website imdagrimet.gov.in, the state-wise advisories page, and state-capital forecasting offices.",
+  "meta": {
+   "kind": "record",
+   "topic": "Weather & advisories",
+   "category": "Weather & Agro-Advisories",
+   "crop_type": "All",
+   "language": "English",
+   "source_id": "S14",
+   "source_name": "IMD - Meteorological Services for Agriculture",
+   "source_url": "https://mausam.imd.gov.in/responsive/servicesMetAgriculture.php",
+   "document_date": "Not stated",
+   "verification_note": "SMS, radio and IVR not mentioned on the page",
+   "reliability_note": "Official IMD page; does not state advisory frequency"
+  }
+ },
+ {
+  "id": "R033",
+  "text": "Weather data gaps: Advisory frequency is not stated. Crop weather calendars and district-level agromet forecasts were not found on the page.",
+  "meta": {
+   "kind": "record",
+   "topic": "Weather & advisories",
+   "category": "Weather & Agro-Advisories",
+   "crop_type": "All",
+   "language": "English",
+   "source_id": "S14",
+   "source_name": "IMD - Meteorological Services for Agriculture",
+   "source_url": "https://mausam.imd.gov.in/responsive/servicesMetAgriculture.php",
+   "document_date": "Not stated",
+   "verification_note": "Gap: confirm API or feed availability before building weather module",
+   "reliability_note": "Official IMD page; does not state advisory frequency"
+  }
+ },
+ {
+  "id": "R034",
+  "text": "Kisan Suvidha app: Provides weather, dealers, market prices, agro advisories, plant protection, IPM and extreme weather alerts. Android (Google Play).",
+  "meta": {
+   "kind": "record",
+   "topic": "Digital tools",
+   "category": "Digital Tools & Channels",
+   "crop_type": "All",
+   "language": "English",
+   "source_id": "S03",
+   "source_name": "mKisan - Downloads (farmer mobile apps)",
+   "source_url": "https://mkisan.gov.in/Home/Downloads",
+   "document_date": "Not stated",
+   "verification_note": "",
+   "reliability_note": "Official government portal; app list is long, so only relevant apps were kept"
+  }
+ },
+ {
+  "id": "R035",
+  "text": "mKisan app: Advisories from experts and officials, accessible without registration.",
+  "meta": {
+   "kind": "record",
+   "topic": "Digital tools",
+   "category": "Digital Tools & Channels",
+   "crop_type": "All",
+   "language": "English",
+   "source_id": "S03",
+   "source_name": "mKisan - Downloads (farmer mobile apps)",
+   "source_url": "https://mkisan.gov.in/Home/Downloads",
+   "document_date": "Not stated",
+   "verification_note": "",
+   "reliability_note": "Official government portal; app list is long, so only relevant apps were kept"
+  }
+ },
+ {
+  "id": "R036",
+  "text": "AgriMarket app: Shows crop prices in markets within 50 km, using GPS or manual selection.",
+  "meta": {
+   "kind": "record",
+   "topic": "Digital tools",
+   "category": "Digital Tools & Channels",
+   "crop_type": "All",
+   "language": "English",
+   "source_id": "S03",
+   "source_name": "mKisan - Downloads (farmer mobile apps)",
+   "source_url": "https://mkisan.gov.in/Home/Downloads",
+   "document_date": "Not stated",
+   "verification_note": "Platform not stated",
+   "reliability_note": "Official government portal; app list is long, so only relevant apps were kept"
+  }
+ },
+ {
+  "id": "R037",
+  "text": "PMIS - IPM guidance: PMIS - Brinjal and PMIS - Tomato provide IPM guidance for pests.",
+  "meta": {
+   "kind": "record",
+   "topic": "Digital tools",
+   "category": "Digital Tools & Channels",
+   "crop_type": "All",
+   "language": "English",
+   "source_id": "S03",
+   "source_name": "mKisan - Downloads (farmer mobile apps)",
+   "source_url": "https://mkisan.gov.in/Home/Downloads",
+   "document_date": "Not stated",
+   "verification_note": "Platform not stated",
+   "reliability_note": "Official government portal; app list is long, so only relevant apps were kept"
+  }
+ },
+ {
+  "id": "R038",
+  "text": "ICAR technology repository: ICAR-developed and tested technologies across crop improvement, natural resource management, horticulture, fisheries, veterinary, dairy and engineering. Searchable by region, subject and institution. Viewing is open access.",
+  "meta": {
+   "kind": "record",
+   "topic": "Digital tools",
+   "category": "Digital Tools & Channels",
+   "crop_type": "All",
+   "language": "English",
+   "source_id": "S18",
+   "source_name": "ICAR KRISHI - Technology Repository",
+   "source_url": "https://krishi.icar.gov.in/Technology_Database.jsp",
+   "document_date": "Not stated",
+   "verification_note": "Crops not listed on this page",
+   "reliability_note": "Official ICAR database; crop-level listings not visible from this page"
+  }
+ },
+ {
+  "id": "R039",
+  "text": "Key pests and diseases: National significance pests: yellow stem borer, brown planthopper, white-backed planthopper, leaf folder, gundhi bug, gall midge. Diseases of national importance: blast, bacterial leaf blight, sheath blight, false smut, brown spot. Regional: termite, rice hispa, armyworm, thrips, mealybug, mites, white grub, sheath rot, bakanae, stem rot, tungro. Also nematodes, weeds and rats.",
+  "meta": {
+   "kind": "record",
+   "topic": "Pest control",
+   "category": "Pest & Disease Management (IPM)",
+   "crop_type": "Rice",
+   "language": "English",
+   "source_id": "S16",
+   "source_name": "Integrated Pest Management Package - Rice",
+   "source_url": "https://www.niphm.gov.in/IPMPackages/Rice.pdf",
+   "document_date": "2014",
+   "verification_note": "",
+   "reliability_note": "Official ICAR-linked technical package dated 2014; check for newer editions"
+  }
+ },
+ {
+  "id": "R040",
+  "text": "AESA and field scouting: Field observations on pests and diseases start about 20 days after transplanting. Farmers record plant health, pests, natural enemies and weather through Agro-Ecosystem Analysis (AESA).",
+  "meta": {
+   "kind": "record",
+   "topic": "Pest control",
+   "category": "Pest & Disease Management (IPM)",
+   "crop_type": "Rice",
+   "language": "English",
+   "source_id": "S16",
+   "source_name": "Integrated Pest Management Package - Rice",
+   "source_url": "https://www.niphm.gov.in/IPMPackages/Rice.pdf",
+   "document_date": "2014",
+   "verification_note": "",
+   "reliability_note": "Official ICAR-linked technical package dated 2014; check for newer editions"
+  }
+ },
+ {
+  "id": "R021",
+  "text": "Soil Health Card - cards issued: Cycle I (2015-17): 107,348,416 cards. Cycle II (2017-19): 119,773,040 cards. Combined total of 227,121,456 is our own sum, not a figure from the source.",
+  "meta": {
+   "kind": "record",
+   "topic": "Soil health",
+   "category": "Soil Health & Nutrient Management",
+   "crop_type": "All",
+   "language": "English",
+   "source_id": "S06",
+   "source_name": "Soil Health Card Scheme - Factsheet",
+   "source_url": "https://pib.gov.in/FactsheetDetails.aspx?Id=148602",
+   "document_date": "Not stated",
+   "verification_note": "",
+   "reliability_note": "Official PIB factsheet; contains a conflict on testing frequency (see R21)"
+  }
+ },
+ {
+  "id": "R022",
+  "text": "Soil Health Card - parameters tested: 12 parameters: Macro-nutrients N, P, K; secondary nutrient S; micro-nutrients Zn, Fe, Cu, Mn, Bo (boron); physical parameters pH, EC, OC.",
+  "meta": {
+   "kind": "record",
+   "topic": "Soil health",
+   "category": "Soil Health & Nutrient Management",
+   "crop_type": "All",
+   "language": "English",
+   "source_id": "S06",
+   "source_name": "Soil Health Card Scheme - Factsheet",
+   "source_url": "https://pib.gov.in/FactsheetDetails.aspx?Id=148602",
+   "document_date": "Not stated",
+   "verification_note": "",
+   "reliability_note": "Official PIB factsheet; contains a conflict on testing frequency (see R21)"
+  }
+ },
+ {
+  "id": "R023",
+  "text": "Soil Health Card - testing cycle: Conflict in source: Objectives section says cards issued 'every two years'; Key Features section says 'once in every three years'.",
+  "meta": {
+   "kind": "record",
+   "topic": "Soil health",
+   "category": "Soil Health & Nutrient Management",
+   "crop_type": "All",
+   "language": "English",
+   "source_id": "S06",
+   "source_name": "Soil Health Card Scheme - Factsheet",
+   "source_url": "https://pib.gov.in/FactsheetDetails.aspx?Id=148602",
+   "document_date": "Not stated",
+   "verification_note": "Unresolved; verify on soilhealth.dac.gov.in (S07)",
+   "reliability_note": "Official PIB factsheet; contains a conflict on testing frequency (see R21)"
+  }
+ },
+ {
+  "id": "R024",
+  "text": "Soil Health Card - objectives: Recommends block- or taluka-level fertilizer plans in targeted districts; promotes soil-test-based nutrient management to improve nutrient use efficiency; gives financial help for corrective measures.",
+  "meta": {
+   "kind": "record",
+   "topic": "Soil health",
+   "category": "Soil Health & Nutrient Management",
+   "crop_type": "All",
+   "language": "English",
+   "source_id": "S06",
+   "source_name": "Soil Health Card Scheme - Factsheet",
+   "source_url": "https://pib.gov.in/FactsheetDetails.aspx?Id=148602",
+   "document_date": "Not stated",
+   "verification_note": "",
+   "reliability_note": "Official PIB factsheet; contains a conflict on testing frequency (see R21)"
+  }
+ },
+ {
+  "id": "R025",
+  "text": "Mandi prices - dataset: Daily wholesale maximum, minimum and modal price for various commodities from various mandis, generated through the AGMARKNET portal (daily granularity).",
+  "meta": {
+   "kind": "record",
+   "topic": "Market prices",
+   "category": "Market Information & Prices",
+   "crop_type": "All",
+   "language": "English",
+   "source_id": "S12",
+   "source_name": "Current Daily Price of Various Commodities from Various Markets (Mandi)",
+   "source_url": "https://data.gov.in/resource/current-daily-price-various-commodities-various-markets-mandi",
+   "document_date": "Not stated",
+   "verification_note": "OGD page says API does not exist; use AGMARKNET (S13) for live access",
+   "reliability_note": "Official open data; page says API does not exist, so data must be requested or scraped"
+  }
+ },
+ {
+  "id": "R026",
+  "text": "AGMARKNET - source: AGMARKNET is the Ministry's portal that disseminates daily market information (prices and arrivals). Named as the mandi-price source in the project brief.",
+  "meta": {
+   "kind": "record",
+   "topic": "Market prices",
+   "category": "Market Information & Prices",
+   "crop_type": "All",
+   "language": "English",
+   "source_id": "S12",
+   "source_name": "Current Daily Price of Various Commodities from Various Markets (Mandi)",
+   "source_url": "https://agmarknet.gov.in/",
+   "document_date": "Not stated",
+   "verification_note": "agmarknet.gov.in not fetched from this session; verify manually",
+   "reliability_note": "Official open data; page says API does not exist, so data must be requested or scraped"
+  }
+ },
+ {
+  "id": "R027",
+  "text": "e-NAM - registration: Registration is free. Register on the e-NAM portal, the mobile app, or at the mandi gate entry. Needs name, address, date of birth, mobile number and bank details, plus a bank passbook or cheque leaf and a government ID proof.",
+  "meta": {
+   "kind": "record",
+   "topic": "Market prices",
+   "category": "Market Information & Prices",
+   "crop_type": "All",
+   "language": "English",
+   "source_id": "S10",
+   "source_name": "e-NAM - Farmers",
+   "source_url": "https://enam.gov.in/stakeholders-Involved/farmers",
+   "document_date": "Not stated",
+   "verification_note": "",
+   "reliability_note": "Official e-NAM portal"
+  }
+ },
+ {
+  "id": "R028",
+  "text": "e-NAM - services: Online bidding by buyers from multiple markets; live prices and arrivals at nearby mandis; lot tracking via unique lot ID; payment direct to seller bank account via RTGS, NEFT or BHIM UPI.",
+  "meta": {
+   "kind": "record",
+   "topic": "Market prices",
+   "category": "Market Information & Prices",
+   "crop_type": "All",
+   "language": "English",
+   "source_id": "S10",
+   "source_name": "e-NAM - Farmers",
+   "source_url": "https://enam.gov.in/stakeholders-Involved/farmers",
+   "document_date": "Not stated",
+   "verification_note": "",
+   "reliability_note": "Official e-NAM portal"
+  }
+ },
+ {
+  "id": "R029",
+  "text": "e-NAM - helpline: Helpline 1800 270 0224.",
+  "meta": {
+   "kind": "record",
+   "topic": "Market prices",
+   "category": "Market Information & Prices",
+   "crop_type": "All",
+   "language": "English",
+   "source_id": "S10",
+   "source_name": "e-NAM - Farmers",
+   "source_url": "https://enam.gov.in/stakeholders-Involved/farmers",
+   "document_date": "Not stated",
+   "verification_note": "",
+   "reliability_note": "Official e-NAM portal"
+  }
+ },
+ {
+  "id": "R030",
+  "text": "e-NAM - coverage: 1,389 mandis of 23 States and 4 UTs integrated into e-NAM. Over 1.77 crore farmers and 2.53 lakh traders registered (as on 11 Feb 2024). Launched 14 April 2016.",
+  "meta": {
+   "kind": "record",
+   "topic": "Market prices",
+   "category": "Market Information & Prices",
+   "crop_type": "All",
+   "language": "English",
+   "source_id": "S11",
+   "source_name": "e-NAM Factsheet (PIB, 20 Feb 2024)",
+   "source_url": "https://pib.gov.in/FactsheetDetails.aspx?Id=149061",
+   "document_date": "20 Feb 2024",
+   "verification_note": "Figures are from Feb 2024; refresh",
+   "reliability_note": "Official PIB factsheet; figures are as on 11 Feb 2024 (may be outdated)"
+  }
+ },
+ {
+  "id": "Q001",
+  "text": "Q: What is the Kisan Call Centre? A: It is a government telephone helpline launched on 21 January 2004 by the Ministry of Agriculture to give farmers advice by phone in their own language.",
+  "meta": {
+   "kind": "faq",
+   "topic": "Helpline & Advisory Support",
+   "category": "Helpline & Advisory Support",
+   "crop_type": "All",
+   "language": "en",
+   "source_id": "S01",
+   "source_name": "Kisan Call Centre (KCC) - About",
+   "source_url": "https://mkisan.gov.in/Home/AboutKCC",
+   "document_date": "",
+   "verification_note": "",
+   "reliability_note": "Official government portal",
+   "related_record_ids": "R001"
+  }
+ },
+ {
+  "id": "Q002",
+  "text": "Q: What number do I call, and when is it open? A: Call the toll-free number 1800-180-1551 from any mobile or landline network, 6.00 am to 10.00 pm, all seven days of the week.",
+  "meta": {
+   "kind": "faq",
+   "topic": "Helpline & Advisory Support",
+   "category": "Helpline & Advisory Support",
+   "crop_type": "All",
+   "language": "en",
+   "source_id": "S02",
+   "source_name": "Kisan Call Centre - Features",
+   "source_url": "https://mkisan.gov.in/Home/KCCFeature",
+   "document_date": "",
+   "verification_note": "",
+   "reliability_note": "Official government portal",
+   "related_record_ids": "R002, R003"
+  }
+ },
+ {
+  "id": "Q003",
+  "text": "Q: In which languages can I get answers? A: Answers are given in 22 local languages. The official page does not list them, so check whether Hindi and Kannada are included before promising them.",
+  "meta": {
+   "kind": "faq",
+   "topic": "Helpline & Advisory Support",
+   "category": "Helpline & Advisory Support",
+   "crop_type": "All",
+   "language": "en",
+   "source_id": "S02",
+   "source_name": "Kisan Call Centre - Features",
+   "source_url": "https://mkisan.gov.in/Home/KCCFeature",
+   "document_date": "",
+   "verification_note": "",
+   "reliability_note": "Official government portal",
+   "related_record_ids": "R004"
+  }
+ },
+ {
+  "id": "Q004",
+  "text": "Q: Who answers the calls, and what happens to difficult questions? A: Farm Tele Advisors answer, most of them agriculture graduates. Questions they cannot answer are passed to subject-matter specialists from State Agriculture Departments, ICAR and State Agricultural Universities through call conferencing.",
+  "meta": {
+   "kind": "faq",
+   "topic": "Helpline & Advisory Support",
+   "category": "Helpline & Advisory Support",
+   "crop_type": "All",
+   "language": "en",
+   "source_id": "S01",
+   "source_name": "Kisan Call Centre (KCC) - About",
+   "source_url": "https://mkisan.gov.in/Home/AboutKCC",
+   "document_date": "",
+   "verification_note": "",
+   "reliability_note": "Official government portal",
+   "related_record_ids": "R005"
+  }
+ },
+ {
+  "id": "Q005",
+  "text": "Q: How much does PM-KISAN pay? A: Rs 6,000 a year per family, in three instalments of Rs 2,000 every four months, paid by Direct Benefit Transfer.",
+  "meta": {
+   "kind": "faq",
+   "topic": "Government Schemes",
+   "category": "Government Schemes",
+   "crop_type": "All (landholding farmers)",
+   "language": "en",
+   "source_id": "S05",
+   "source_name": "PIB FAQ on PM-KISAN (ref RU-16-03-0002-231121)",
+   "source_url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2021/nov/doc2021112361.pdf",
+   "document_date": "",
+   "verification_note": "",
+   "reliability_note": "Official PIB FAQ dated 23 Nov 2021; check for later rule changes",
+   "related_record_ids": "R007"
+  }
+ },
+ {
+  "id": "Q006",
+  "text": "Q: Who is eligible for PM-KISAN? A: Landholding farmer families who own cultivable land in their own names. The land ownership cut-off date is 1 February 2019, except for land transferred by succession.",
+  "meta": {
+   "kind": "faq",
+   "topic": "Government Schemes",
+   "category": "Government Schemes",
+   "crop_type": "All (landholding farmers)",
+   "language": "en",
+   "source_id": "S05",
+   "source_name": "PIB FAQ on PM-KISAN (ref RU-16-03-0002-231121)",
+   "source_url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2021/nov/doc2021112361.pdf",
+   "document_date": "",
+   "verification_note": "",
+   "reliability_note": "Official PIB FAQ dated 23 Nov 2021; check for later rule changes",
+   "related_record_ids": "R008"
+  }
+ },
+ {
+  "id": "Q007",
+  "text": "Q: Who is not eligible for PM-KISAN? A: Tenant farmers, institutional landholders, families with constitutional post holders or serving or retired government employees, pensioners receiving Rs 10,000 or more a month, income-tax payers in the last assessment year, and registered professionals such as doctors, engineers, lawyers, CAs and architects.",
+  "meta": {
+   "kind": "faq",
+   "topic": "Government Schemes",
+   "category": "Government Schemes",
+   "crop_type": "All (landholding farmers)",
+   "language": "en",
+   "source_id": "S05",
+   "source_name": "PIB FAQ on PM-KISAN (ref RU-16-03-0002-231121)",
+   "source_url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2021/nov/doc2021112361.pdf",
+   "document_date": "",
+   "verification_note": "",
+   "reliability_note": "Official PIB FAQ dated 23 Nov 2021; check for later rule changes",
+   "related_record_ids": "R009"
+  }
+ },
+ {
+  "id": "Q008",
+  "text": "Q: How do I check my PM-KISAN status and complete eKYC? A: Use Know Your Status on the PM-KISAN portal, app, or Kisan eMitra chatbot. eKYC is mandatory: use OTP eKYC on the portal, or biometric eKYC at a nearby CSC centre.",
+  "meta": {
+   "kind": "faq",
+   "topic": "Government Schemes",
+   "category": "Government Schemes",
+   "crop_type": "All (landholding farmers)",
+   "language": "en",
+   "source_id": "S04",
+   "source_name": "PM-KISAN Portal",
+   "source_url": "https://pmkisan.gov.in/",
+   "document_date": "",
+   "verification_note": "",
+   "reliability_note": "Official government portal",
+   "related_record_ids": "R010"
+  }
+ },
+ {
+  "id": "Q009",
+  "text": "Q: Why might my PM-KISAN instalment be withheld? A: Cases can be flagged and held pending physical verification, for example if land was acquired after 01-02-2019 or more than one family member receives benefits.",
+  "meta": {
+   "kind": "faq",
+   "topic": "Government Schemes",
+   "category": "Government Schemes",
+   "crop_type": "All (landholding farmers)",
+   "language": "en",
+   "source_id": "S04",
+   "source_name": "PM-KISAN Portal",
+   "source_url": "https://pmkisan.gov.in/",
+   "document_date": "",
+   "verification_note": "",
+   "reliability_note": "Official government portal",
+   "related_record_ids": "R011"
+  }
+ },
+ {
+  "id": "Q010",
+  "text": "Q: What premium do I pay for crop insurance in kharif? A: Under PMFBY, farmers pay 2.0% of the Sum Insured or the Actuarial Rate, whichever is less. (2021 FAQ; check the current rate.)",
+  "meta": {
+   "kind": "faq",
+   "topic": "Government Schemes",
+   "category": "Government Schemes",
+   "crop_type": "Kharif food grains & oilseeds",
+   "language": "en",
+   "source_id": "S08",
+   "source_name": "PMFBY FAQ (PIB)",
+   "source_url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2021/dec/doc202112701.pdf",
+   "document_date": "",
+   "verification_note": "",
+   "reliability_note": "Official PIB FAQ dated 7 Dec 2021; premium rates may have been revised since",
+   "related_record_ids": "R013"
+  }
+ },
+ {
+  "id": "Q011",
+  "text": "Q: What premium do I pay for crop insurance in rabi? A: Under PMFBY, farmers pay 1.5% of the Sum Insured or the Actuarial Rate, whichever is less. (2021 FAQ; check the current rate.)",
+  "meta": {
+   "kind": "faq",
+   "topic": "Government Schemes",
+   "category": "Government Schemes",
+   "crop_type": "Rabi food grains & oilseeds",
+   "language": "en",
+   "source_id": "S08",
+   "source_name": "PMFBY FAQ (PIB)",
+   "source_url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2021/dec/doc202112701.pdf",
+   "document_date": "",
+   "verification_note": "",
+   "reliability_note": "Official PIB FAQ dated 7 Dec 2021; premium rates may have been revised since",
+   "related_record_ids": "R014"
+  }
+ },
+ {
+  "id": "Q012",
+  "text": "Q: How quickly must I report crop loss to the insurer? A: The insurer's FAQ says to intimate localised or post-harvest losses within 72 hours of the event. Report to the insurer, the District Agriculture Office, or your bank. (Insurer page, not government.)",
+  "meta": {
+   "kind": "faq",
+   "topic": "Government Schemes",
+   "category": "Government Schemes",
+   "crop_type": "All",
+   "language": "en",
+   "source_id": "S09",
+   "source_name": "PMFBY FAQ (IFFCO-Tokio insurer page)",
+   "source_url": "https://www.iffcotokio.co.in/pradhan-mantri-fasal-bima-yojana/faq",
+   "document_date": "",
+   "verification_note": "",
+   "reliability_note": "NON-GOVERNMENT. Use as secondary only; cross-check with State notifications",
+   "related_record_ids": "R018"
+  }
+ },
+ {
+  "id": "Q013",
+  "text": "Q: How do I pay my crop insurance premium? A: By NEFT only. Demand drafts and cheques are not accepted. Proposals are accepted only up to the state cut-off date. (Insurer page, not government.)",
+  "meta": {
+   "kind": "faq",
+   "topic": "Government Schemes",
+   "category": "Government Schemes",
+   "crop_type": "All",
+   "language": "en",
+   "source_id": "S09",
+   "source_name": "PMFBY FAQ (IFFCO-Tokio insurer page)",
+   "source_url": "https://www.iffcotokio.co.in/pradhan-mantri-fasal-bima-yojana/faq",
+   "document_date": "",
+   "verification_note": "",
+   "reliability_note": "NON-GOVERNMENT. Use as secondary only; cross-check with State notifications",
+   "related_record_ids": "R016, R017"
+  }
+ },
+ {
+  "id": "Q014",
+  "text": "Q: How can I find out which government schemes I qualify for? A: Use the myScheme platform (myscheme.gov.in), which has scheme search and an eligibility check based on your personal details.",
+  "meta": {
+   "kind": "faq",
+   "topic": "Government Schemes",
+   "category": "Government Schemes",
+   "crop_type": "All",
+   "language": "en",
+   "source_id": "S19",
+   "source_name": "myScheme - About",
+   "source_url": "https://www.myscheme.gov.in/about",
+   "document_date": "",
+   "verification_note": "",
+   "reliability_note": "Official government platform",
+   "related_record_ids": "R019"
+  }
+ },
+ {
+  "id": "Q015",
+  "text": "Q: Is it free to register on e-NAM? A: Yes. Registration is free. Register on the e-NAM portal, the app, or at the mandi gate entry. You need your bank passbook or cheque leaf and a government ID proof.",
+  "meta": {
+   "kind": "faq",
+   "topic": "Market Information & Prices",
+   "category": "Market Information & Prices",
+   "crop_type": "All",
+   "language": "en",
+   "source_id": "S10",
+   "source_name": "e-NAM - Farmers",
+   "source_url": "https://enam.gov.in/stakeholders-Involved/farmers",
+   "document_date": "",
+   "verification_note": "",
+   "reliability_note": "Official e-NAM portal",
+   "related_record_ids": "R027"
+  }
+ },
+ {
+  "id": "Q016",
+  "text": "Q: How do I get paid for produce sold on e-NAM? A: Payment goes straight to your bank account by RTGS, NEFT or BHIM UPI.",
+  "meta": {
+   "kind": "faq",
+   "topic": "Market Information & Prices",
+   "category": "Market Information & Prices",
+   "crop_type": "All",
+   "language": "en",
+   "source_id": "S10",
+   "source_name": "e-NAM - Farmers",
+   "source_url": "https://enam.gov.in/stakeholders-Involved/farmers",
+   "document_date": "",
+   "verification_note": "",
+   "reliability_note": "Official e-NAM portal",
+   "related_record_ids": "R028"
+  }
+ },
+ {
+  "id": "Q017",
+  "text": "Q: Where can I get daily mandi prices? A: The AGMARKNET portal publishes daily prices and arrivals, and the Government's open data platform (data.gov.in) has a daily mandi price dataset (min, max and modal prices). The open data page says no API exists, so access must be arranged separately.",
+  "meta": {
+   "kind": "faq",
+   "topic": "Market Information & Prices",
+   "category": "Market Information & Prices",
+   "crop_type": "All",
+   "language": "en",
+   "source_id": "S12",
+   "source_name": "Current Daily Price of Various Commodities from Various Markets (Mandi)",
+   "source_url": "https://data.gov.in/resource/current-daily-price-various-commodities-various-markets-mandi",
+   "document_date": "",
+   "verification_note": "",
+   "reliability_note": "Official open data; page says API does not exist, so data must be requested or scraped",
+   "related_record_ids": "R025, R026"
+  }
+ },
+ {
+  "id": "Q018",
+  "text": "Q: What is a Soil Health Card? A: A card that gives the results of testing soil for 12 parameters (N, P, K, S, Zn, Fe, Cu, Mn, B, pH, EC, OC), with fertilizer recommendations. The scheme was launched on 19 February 2015.",
+  "meta": {
+   "kind": "faq",
+   "topic": "Soil Health & Nutrient Management",
+   "category": "Soil Health & Nutrient Management",
+   "crop_type": "All",
+   "language": "en",
+   "source_id": "S06",
+   "source_name": "Soil Health Card Scheme - Factsheet",
+   "source_url": "https://pib.gov.in/FactsheetDetails.aspx?Id=148602",
+   "document_date": "",
+   "verification_note": "",
+   "reliability_note": "Official PIB factsheet; contains a conflict on testing frequency (see R21)",
+   "related_record_ids": "R020, R022"
+  }
+ },
+ {
+  "id": "Q019",
+  "text": "Q: How often do I get a new Soil Health Card? A: The source conflicts: the objectives say 'every two years', but the key features say 'once in every three years'. Confirm on the official portal before answering.",
+  "meta": {
+   "kind": "faq",
+   "topic": "Soil Health & Nutrient Management",
+   "category": "Soil Health & Nutrient Management",
+   "crop_type": "All",
+   "language": "en",
+   "source_id": "S06",
+   "source_name": "Soil Health Card Scheme - Factsheet",
+   "source_url": "https://pib.gov.in/FactsheetDetails.aspx?Id=148602",
+   "document_date": "",
+   "verification_note": "",
+   "reliability_note": "Official PIB factsheet; contains a conflict on testing frequency (see R21)",
+   "related_record_ids": "R023"
+  }
+ },
+ {
+  "id": "Q020",
+  "text": "Q: Where do I get agro-meteorological advisories? A: Through the MAUSAM, Meghdoot Agro and UMANG apps, the imdagrimet.gov.in website, and state-capital forecasting offices. The IMD page does not say how often advisories are issued.",
+  "meta": {
+   "kind": "faq",
+   "topic": "Weather & Agro-Advisories",
+   "category": "Weather & Agro-Advisories",
+   "crop_type": "All",
+   "language": "en",
+   "source_id": "S14",
+   "source_name": "IMD - Meteorological Services for Agriculture",
+   "source_url": "https://mausam.imd.gov.in/responsive/servicesMetAgriculture.php",
+   "document_date": "",
+   "verification_note": "",
+   "reliability_note": "Official IMD page; does not state advisory frequency",
+   "related_record_ids": "R031, R032"
+  }
+ },
+ {
+  "id": "Q021",
+  "text": "Q: When should I start field scouting for pests in rice? A: About 20 days after transplanting, using Agro-Ecosystem Analysis (AESA) and field scouting.",
+  "meta": {
+   "kind": "faq",
+   "topic": "Pest & Disease Management (IPM)",
+   "category": "Pest & Disease Management (IPM)",
+   "crop_type": "Rice",
+   "language": "en",
+   "source_id": "S16",
+   "source_name": "Integrated Pest Management Package - Rice",
+   "source_url": "https://www.niphm.gov.in/IPMPackages/Rice.pdf",
+   "document_date": "",
+   "verification_note": "",
+   "reliability_note": "Official ICAR-linked technical package dated 2014; check for newer editions",
+   "related_record_ids": "R040"
+  }
+ },
+ {
+  "id": "Q022",
+  "text": "Q: When should I spray for planthoppers in rice? A: Only as a last resort, when the pest population crosses the economic threshold: 10-15 brown planthoppers per hill from early to late tillering, and 15-20 per hill from panicle initiation to booting. A pest:defender ratio of 2:1 may mean no spray is needed.",
+  "meta": {
+   "kind": "faq",
+   "topic": "Pest & Disease Management (IPM)",
+   "category": "Pest & Disease Management (IPM)",
+   "crop_type": "Rice",
+   "language": "en",
+   "source_id": "S16",
+   "source_name": "Integrated Pest Management Package - Rice",
+   "source_url": "https://www.niphm.gov.in/IPMPackages/Rice.pdf",
+   "document_date": "",
+   "verification_note": "",
+   "reliability_note": "Official ICAR-linked technical package dated 2014; check for newer editions",
+   "related_record_ids": "R043, R044"
+  }
+ },
+ {
+  "id": "Q023",
+  "text": "Q: When do I set up pheromone traps for pink bollworm in cotton? A: At 45 days after sowing, install pheromone traps at 5 per hectare.",
+  "meta": {
+   "kind": "faq",
+   "topic": "Pest & Disease Management (IPM)",
+   "category": "Pest & Disease Management (IPM)",
+   "crop_type": "Cotton",
+   "language": "en",
+   "source_id": "S17",
+   "source_name": "Illustrative Guide for Integrated Management of Cotton Pests, Diseases and Nematodes",
+   "source_url": "https://cicr.org.in/wp-content/uploads/2026/08/CICR_Illustrative-guide-for-integrated-management-for-Cotton-Pests-Diseases-and-Nematodes.pdf",
+   "document_date": "",
+   "verification_note": "",
+   "reliability_note": "ICAR research institute; 2026 edition, most recent source in this set",
+   "related_record_ids": "R046"
+  }
+ },
+ {
+  "id": "Q024",
+  "text": "Q: Should I keep my cotton crop in the field for longer than 180 days? A: No. The CICR guide says not to extend the crop beyond 180 days, because late-season pest build-up increases.",
+  "meta": {
+   "kind": "faq",
+   "topic": "Pest & Disease Management (IPM)",
+   "category": "Pest & Disease Management (IPM)",
+   "crop_type": "Cotton",
+   "language": "en",
+   "source_id": "S17",
+   "source_name": "Illustrative Guide for Integrated Management of Cotton Pests, Diseases and Nematodes",
+   "source_url": "https://cicr.org.in/wp-content/uploads/2026/08/CICR_Illustrative-guide-for-integrated-management-for-Cotton-Pests-Diseases-and-Nematodes.pdf",
+   "document_date": "",
+   "verification_note": "",
+   "reliability_note": "ICAR research institute; 2026 edition, most recent source in this set",
+   "related_record_ids": "R050"
+  }
+ },
+ {
+  "id": "Q025",
+  "text": "Q: Which app gives weather, prices and advisories in one place? A: The Kisan Suvidha app is listed for weather, dealers, market prices, agro-advisories, plant protection, IPM and extreme weather alerts. It is on Google Play for Android.",
+  "meta": {
+   "kind": "faq",
+   "topic": "Digital Tools & Channels",
+   "category": "Digital Tools & Channels",
+   "crop_type": "All",
+   "language": "en",
+   "source_id": "S03",
+   "source_name": "mKisan - Downloads (farmer mobile apps)",
+   "source_url": "https://mkisan.gov.in/Home/Downloads",
+   "document_date": "",
+   "verification_note": "",
+   "reliability_note": "Official government portal; app list is long, so only relevant apps were kept",
+   "related_record_ids": "R034"
+  }
+ },
+ {
+  "id": "Q026",
+  "text": "Q: Where can I find ICAR-tested farm technologies? A: The ICAR KRISHI Technology Repository holds developed and tested technologies, searchable by region, subject and institution.",
+  "meta": {
+   "kind": "faq",
+   "topic": "Digital Tools & Channels",
+   "category": "Digital Tools & Channels",
+   "crop_type": "All",
+   "language": "en",
+   "source_id": "S18",
+   "source_name": "ICAR KRISHI - Technology Repository",
+   "source_url": "https://krishi.icar.gov.in/Technology_Database.jsp",
+   "document_date": "",
+   "verification_note": "",
+   "reliability_note": "Official ICAR database; crop-level listings not visible from this page",
+   "related_record_ids": "R038"
+  }
+ },
+ {
+  "id": "Q027",
+  "text": "Q: Is there open data of past farmer helpline queries? A: Yes. The Open Government Data platform has a district-wise, month-wise dataset of KCC queries and FTA answers. The listing shows no records or file size, so download and check it before use.",
+  "meta": {
+   "kind": "faq",
+   "topic": "Knowledge Base Data",
+   "category": "Knowledge Base Data",
+   "crop_type": "All",
+   "language": "en",
+   "source_id": "S20",
+   "source_name": "Kisan Call Centre (KCC) Query Data - Open Dataset",
+   "source_url": "https://www.data.gov.in/resource/kisan-call-centre-kcc-transcripts-farmers-queries-answers",
+   "document_date": "",
+   "verification_note": "",
+   "reliability_note": "Official open data, but the page shows no records or file size. Check the download before use.",
+   "related_record_ids": "R006"
+  }
+ }
+]

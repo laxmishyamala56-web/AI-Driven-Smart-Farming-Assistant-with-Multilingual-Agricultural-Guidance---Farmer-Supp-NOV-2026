@@ -1,0 +1,10 @@
+gap_id,area,issue,suggested_action
+G01,Mandi prices (AGMARKNET),agmarknet.gov.in and soilhealth.dac.gov.in could not be read from this session. The OGD dataset says no API exists.,"Open both sites in a browser to confirm access, the data format and any terms; request an API or download route for live prices."
+G02,Language coverage,KCC says '22 local languages' without naming them. Hindi and Kannada are not confirmed.,"Check the KCC or KKMS documentation, or ask the Ministry, and record the answer here."
+G03,Conflicting facts,Soil Health Card testing cycle is stated as both 'every two years' and 'every three years'.,Verify on soilhealth.dac.gov.in (S07) and record the answer in R023.
+G04,Dated figures,"PMFBY premium rates (2021), PM-KISAN FAQ (2021) and e-NAM figures (Feb 2024) are older.","Check current State notifications, the PM-KISAN portal and the e-NAM dashboard before presenting figures as current."
+G05,Weather data,"IMD page does not give advisory frequency, crop calendars or district-level agromet forecasts. No API was confirmed.","Confirm with IMD (MAUSAM / Meghdoot) whether an API or feed is available, and its terms."
+G06,Crop coverage,"IPM content covers rice and cotton only. Other crops in the NCIPM list (wheat, tomato, banana, etc.) are not yet collected.",Fetch the NCIPM crop-specific packages (see S15) and add records in the same format.
+G07,Hindi and Kannada content,All records are in English. The app must answer in Hindi and Kannada.,Translate and validate key FAQs with a native speaker or extension worker; add a language column per row.
+G08,Non-government sources,PMFBY loss-reporting and enrolment rules come from an insurer page (S09).,Cross-check with State cut-off notifications and the official PMFBY portal.
+G09,Source access,ICAR portal (icar.org.in) and KVK pages were not checked directly.,Add ICAR and KVK pages to the registry once verified.

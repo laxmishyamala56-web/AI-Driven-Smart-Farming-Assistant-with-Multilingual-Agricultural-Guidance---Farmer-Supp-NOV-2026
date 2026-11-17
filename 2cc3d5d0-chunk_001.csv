@@ -1,0 +1,9 @@
+category,description,project_module_mapping,record_count,faq_count,source_ids
+Helpline & Advisory Support,"Kisan Call Centre helpline, timings, languages and query handling",Module 1 (NLP: language coverage) and Module 2 (knowledge base / FAQ seed),5,4,"S01, S02"
+Government Schemes,"PM-KISAN, PMFBY, myScheme eligibility and rules","Module 2 (scheme lookup sub-agent, eligibility checker, Weeks 3-4)",13,10,"S04, S05, S08, S09, S19"
+Soil Health & Nutrient Management,"Soil Health Card scheme, parameters and fertilizer planning",Module 2 (crop advisory sub-agent),5,2,S06
+Market Information & Prices,"Mandi prices (AGMARKNET), e-NAM registration and services","Module 2 (market price sub-agent, Weeks 3-4 real-time API)",6,3,"S10, S11, S12"
+Weather & Agro-Advisories,IMD agromet advisories and delivery channels,Module 2 (weather forecast API) and Module 3 (delivery),3,1,S14
+Pest & Disease Management (IPM),"Crop-level pest, disease and IPM practices (rice, cotton, multi-crop index)","Module 2 (pest control sub-agent, Weeks 3-4)",13,4,"S15, S16, S17"
+Digital Tools & Channels,Farmer apps and ICAR technology repository,Module 3 (channel design) and Module 2 (source list),5,2,"S03, S18"
+Knowledge Base Data,Open datasets to seed the knowledge base and FAQs,Module 2 (knowledge base enrichment) and Module 4 (evaluation data),1,1,S20
